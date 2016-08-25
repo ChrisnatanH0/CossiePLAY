@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#95FFE3;
+}
+
+#Banner {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style:italic;
+	text-align: center;
+	background-color:#23FF95;
+}
+
+#Nav_Bar {
+	text-align: center;
+}
+
+.header {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: italic;
+	text-align:center;
+}
+
+#Content {
+	background-color: #FFF500;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-style: italic;
+}
+#Footer {
+	text-align: center;
+	font-size: 12px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style:italic;
+}
+
+.notebox {
+  clear:both; 
+  background-color:#00C3FF;
+  font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+  font-style: italic;
+  border:#97bfff 4px solid; margin-right: 1.2em; margin-left: 1.2em;
+  text-align:center;
+}
+.notebox_h4 {
+  font-size: 4em; margin:0px; font-style:normal;
+  padding-left:0.1em; padding-right:0.3em; padding-top:0.2em; padding-bottom:0.2em;
+  background-color:#97bfff;
+  text-align:left;
+}
+.notebox_p {
+  font-size:2em; margin:4px;
+  font-style: normal;
+  padding-left:0.3em; padding-right:0.3em; padding-top:0.5em; padding-bottom:0.5em;
+  text-align:left;
+}
+
+.notebox2 {
+  clear:both; 
+  background-color:#F3F900;
+  font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+  font-style: italic;
+  border:#97bfff 4px solid; margin-right: 1.2em; margin-left: 1.2em;
+}
+
+.notebox3 {
+  clear:both; 
+  background-color:#A55EFF;
+  font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+  font-style: italic;
+  border:#97bfff 4px solid; margin-right: 1.2em; margin-left: 1.2em;
+}
+
+.notebox4 {
+  clear:both; 
+  background-color:#FFC343;
+  font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+  font-style: italic;
+  border:#97bfff 4px solid; margin-right: 1.2em; margin-left: 1.2em;
+}
+
+.image {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+a:hover {
+	color: #FF0004;
+}
+
+
+@media screen{
+}
